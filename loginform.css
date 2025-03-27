@@ -1,0 +1,62 @@
+label{
+    background-color:none;
+    color: black;
+    border-radius: 4px;
+    height: 20px;
+    width: 200px;
+    cursor: pointer;
+    text-align: center;
+    margin-left: 10PX;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+h1{text-align: center;
+text-decoration: underline;
+}
+h2{text-align: center;}
+button{
+background-color:rgb(246, 250, 5);
+height: 25px;
+width: 70px;
+font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+font-size: large;
+margin-top: 20px;
+margin-left: 10px;
+text-align: center;
+}
+button:hover{
+    opacity: 0.6;
+    
+}
+
+.button-signup{
+    color: white;
+    background-color: brown;
+}
+
+button:hover{opacity: 0.6   
+}
+
+.mybody{
+    background-image: url(salon-image.jpg );
+    background-size: cover;
+
+}
+
+   .myform{
+    background-color:rgba(224, 175, 12, 0.8);
+    text-align: center;
+    width: 300px;
+    height: 300px;
+    justify-content: center;
+    margin: auto;
+    
+   }
+    select{
+        width: 100px;
+        height: 20px;
+    }
+    
+
+

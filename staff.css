@@ -1,0 +1,17 @@
+.mybody{
+    background-image: url(salon-image.jpg );
+    background-size: cover;
+
+}
+h1{text-align: center;
+    text-decoration: underline;
+    }
+    h2{text-align: center;}
+p{
+    color: rgb(41, 25, 25);
+    font-size: 25px;
+    size: 150px;
+    font-style: italic;
+    font-weight: bold;
+    
+}

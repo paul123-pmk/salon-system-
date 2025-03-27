@@ -1,0 +1,33 @@
+h1{
+    margin-left: 180px;
+    color: chartreuse;
+}
+button:hover{opacity: 0.6;}
+button{
+    background-color:rgb(149, 255, 10);
+   padding: 2px;
+    width: 130px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 18px; 
+    justify-content: center;
+   border-radius: 5px;
+   
+}
+button:hover{
+    background-color: brown;
+}
+body{
+    background-image: url(beautypic.jpg );
+    background-size: cover;
+}
+form{
+    align-content: center;
+    background-color: rgba(224, 175, 12, 0.8);
+    text-align: center;
+    width: 300px;
+    height: 200px;
+    justify-content: center;
+    margin: auto;
+    
+    
+}
